@@ -26,7 +26,7 @@ Add screenshots of the project here to showcase the UI.
 
 ## 🌐 Live Demo
 
-https://abdo1454.github.io/scan/
+ https://abdo1454.github.io/clinic/
 
 ## 📚 What I Learned
 
