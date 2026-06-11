@@ -1,4 +1,4 @@
-# Scan App
+# Clinic App
 
 A simple and interactive web application built using HTML, CSS, and JavaScript that simulates a scanning interface experience.
 
